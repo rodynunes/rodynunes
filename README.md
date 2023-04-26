@@ -1,4 +1,4 @@
-## Oiii eu sou o Rodney Drummond, Desenvolvedor web!
+## Oiii eu sou o Rodney Nunes, Desenvolvedor web!
 <div align="center">
   <a href="https://github.com/rodynunes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodynunes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
